@@ -10,4 +10,4 @@
     
  - Qual parte do desenvolvimento de um projeto de software você é muito bom, e qual ainda precisa melhorar?
  
-    Eu gosto mundo de desenvolver a parte lógica do projeto no backend, mas também tenho interesse em participar do desenvolvimento do frontend. Neste projeto em específico, fiz os cursos de React e gostaria de ter a chance de aplicar meus conhecimentos. Durante a prova, tive a chance de conhecer um pouco mais de ruby, apesar de saber que ainda tenho bastante coisa para aprender, tenho vontade de continuar programando nessa linguagem. Acredito que ainda preciso melhorar a parte de desempenho, com programação paralela, para melhorar a performance dos códigos.
+    Eu gosto mundo de desenvolver a parte lógica do projeto no backend, mas também tenho interesse em participar do desenvolvimento do frontend. Neste projeto em específico, fiz os cursos de React e gostaria de ter a chance de aplicar meus conhecimentos. Ainda tenho bastante coisa para aprender em Ruby e quero continuar programando nessa linguagem para me aprimorar. Acredito que ainda preciso melhorar a parte de desempenho, com programação paralela, para melhorar a performance dos códigos.
