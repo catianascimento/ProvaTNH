@@ -1,0 +1,5 @@
+- O que considero mais importante para trabalhar em uma empresa e o objetivo dos seus projetos e o trabalho em equipe. Uma equipe bem empenhada consegue trazer mais resultados bons e fazer a empresa crescer cada vez mais, alem de deixar os funcionarios mais motivados e felizes em trabalhar la.
+
+- Um livro que gostei muito de ler que nao era tecnico e o Magico de Oz, como eu disse acredito muito que a uniao de um grupo por um bem pode levar a realizacao de desejos individuais e do grupo. No meio do caminho, os amigos acabaram deixando de realizar os proprios sonhos para ajudar a realizar o dos amigos.
+
+- Gosto de desenvolver as logicas dos codigos, principalmente a parte de backend. Preciso voltar a desenvolver testes pois era uma parte interessante e muito importante para manutencao do codigo, evitando surpresas desagradaveis. Dentro das tecnologias da vaga, eu gostaria de ter a oportunidade de trabalhar com React pois ja fiz cursos na Alura, mas ainda nao tive a oportunidade de aplicar os conhecimentos aprendidos, e acho que e uma forma de fixar o conhecimento.
