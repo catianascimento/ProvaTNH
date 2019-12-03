@@ -12,6 +12,7 @@ class No
         @visitado = -1
     end
 
+    #Imprime dados de um no
     def imprime_dados()
         if @esq==-1 && @dir==-1
             puts 'no folha'
@@ -21,6 +22,7 @@ class No
         end
     end
     
+    #Imprime quantos filhos no tem
     def imprime_quantos_filhos()
         count = 0
         if self.esq != -1

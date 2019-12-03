@@ -1,0 +1,14 @@
+Enunciado: 
+2) Considere um projeto que possui as seguintes classes:
+
+...
+
+Ambas as classes são usadas em diversos pontos do projeto e agora deseja-se que em alguns desses lugares as chamadas sejam feitas de forma não bloqueante.
+Implemente alterações que permitam que isso seja feito.
+
+Resposta: 
+
+Como o enunciado fala "em alguns desses lugares", eu deixei a opcão do programador continuar utilizando o código como está. Caso não queira, o programador
+passa como parâmetro o valor "false" para o método e então será executada uma Thread para evitar bloqueio de execucão. Eu coloquei um código comentado abaixo da solução, caso queiram testar o código e comparar. Para pequenas execuções a diferenca de execução não é percebida.
+
+Os arquivos saida0 e saida1 contem resultados executados com e sem Threads.

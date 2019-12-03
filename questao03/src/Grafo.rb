@@ -30,6 +30,7 @@ class Grafo
         end
     end
     
+    #Retorna os filhos de um no, caso ele tenha
     def pega_filhos_do_no(no_pai)
         filhos = []
         
@@ -56,6 +57,7 @@ class Grafo
         return busca_ordenada
     end
     
+    #Funcao recursiva para visitar todos os nos a partir de um no
     def dfsR(no, busca_ordenada)
         no.visitado = 0
         busca_ordenada << no.id
