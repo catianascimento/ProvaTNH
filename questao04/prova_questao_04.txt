@@ -2,12 +2,12 @@
 
  - Qual o livro técnico e/ou não técnico que você leu e mais gostou? Por quê?
  
-    Um livro que gostei muito de ler é que não era técnico foi o Magico de Oz. Ja tinha assistido o filme varias vezes quando crianca, mas so tive a oportunidade ou talvez o interesse em ler o livro ha uns 2 anos e consegui ver a historia alem da minha visao infantil. O livro apresenta bem a importancia do trabalho em equipe, inclusive que muitas vezes e preciso sacrificar os proprios desejos em prol dos amigos. Alem disso ele tambem mostra que muitas vezes o que procuramos ja esta conosco, nao e necessaria nenhuma magia para conseguir. =) 
+    Um livro que gostei muito de ler, e não é técnico, foi o Magico de Oz. Já tinha assistido o filme várias vezes quando crianca, mas só tive a oportunidade, ou talvez o interesse em ler o livro, há uns 2 anos e, então, consegui ver a história alem da minha visão infantil. O livro representa bem a importância do trabalho em equipe, e inclusive que muitas vezes e preciso sacrificar os próprios desejos em prol do time/equipe. Além disso, mostra também que muitas vezes o que procuramos já está conosco, já temos o potencial para superar determinados desafios, sem necessidade de magia para alcançar. 
   
  - O que você considera mais importante para trabalhar em uma empresa? Por quê?
 
-    Eu acho que a coisa mais importante para trabalhar em uma empresa é saber trabalhar em equipe, uns ajudando aos outros, sempre que possível, e estar disposto a abraçar os objetivos dessa empresa. Isso requer muito comprometimento e esforço para alcançar um bem comum.
+   Acredito que, para trabalhar em uma empresa, é muito importante saber trabalhar em equipe, ajudar uns aos outros, sempre que possível, e estar disposto a abraçar os objetivos dessa empresa. Isso requer muito comprometimento e esforço para alcançar um bem comum.
     
  - Qual parte do desenvolvimento de um projeto de software você é muito bom, e qual ainda precisa melhorar?
  
-    Eu gosto mundo de desenvolver a parte lógica do projeto no backend, mas também tenho interesse em participar do desenvolvimento do frontend. Neste projeto em específico, fiz os cursos de React e gostaria de ter a chance de aplicar meus conhecimentos. Também, nessa prova, tive a chance de conhecer um pouco mais de ruby, apesar de saber que ainda tenho bastante coisa para aprender, tenho vontade de continuar programando nessa linguagem. Acho que uma das partes que preciso melhorar é a parte de desempenho, com programação paralela para melhorar a performance dos códigos.
+    Eu gosto mundo de desenvolver a parte lógica do projeto no backend, mas também tenho interesse em participar do desenvolvimento do frontend. Neste projeto em específico, fiz os cursos de React e gostaria de ter a chance de aplicar meus conhecimentos. Durante a prova, tive a chance de conhecer um pouco mais de ruby, apesar de saber que ainda tenho bastante coisa para aprender, tenho vontade de continuar programando nessa linguagem. Acredito que ainda preciso melhorar a parte de desempenho, com programação paralela, para melhorar a performance dos códigos.
